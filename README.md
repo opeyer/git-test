@@ -1,0 +1,1 @@
+This is Otto's first Git project! Neat!
